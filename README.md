@@ -7,3 +7,5 @@ To run this project you need:
 2.Python3
 3.Keras library
 4.Testing and Training Datasets.
+#Training Dataset:https://drive.google.com/open?id=1bHPppahVw4N3bJR7QAIsfgK93fox0Fhf
+#Testing Dataset:https://drive.google.com/open?id=1yiG4nNF12GSZMZqsIGsuNn5TxbMD8EJm
