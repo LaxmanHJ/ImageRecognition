@@ -1,5 +1,5 @@
 # Imagerecognition
-Cow Recognition is software used to recognise individual cow.
+Image Recognition is software used to recognise individual cow.
 This project works on basis of CNN, imagerecognition and written in python.
 This recognition model is built using  Keras library.
 
